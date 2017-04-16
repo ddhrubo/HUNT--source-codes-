@@ -12,7 +12,7 @@ Java.
 
 ### Authors:
 1. Md. Fahim Mohiuddin. (program) 
-2. Fayza Amreen. (asset design)
+2. Fayza Amreen. (asset design & level design)
 
 ### Screenshots:
 
